@@ -2,7 +2,7 @@
 
 ### About me
 
-````js
+```js
 let = {
   backend: ['node', 'PHP']
 };
