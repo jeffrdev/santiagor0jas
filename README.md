@@ -1,4 +1,4 @@
-### Hi, I'm Santiago. 👋
+### ¡Hola!, Soy Santiago. 👋
 
 Soy Programador WEB Full Stack!
 
@@ -6,7 +6,14 @@ Soy Programador WEB Full Stack!
 
 ```js
 let santiago = {
-  backend: ['node', 'PHP'],
+  backend: [
+    {
+      node: 'Express'
+    },
+    {
+      php: 'Laravel'
+    }
+  ],
   frontend: ['HTML', 'CSS', 'JavaScript']
 };
 ```
