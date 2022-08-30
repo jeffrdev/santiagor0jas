@@ -2,7 +2,7 @@
 
 Soy Programador WEB Full Stack!
 
-### My Abilities
+### Mis Habilidades
 
 ```js
 let santiago = {
