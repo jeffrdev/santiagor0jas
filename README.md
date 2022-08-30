@@ -1,10 +1,13 @@
 ### Hi, I'm Santiago. 👋
 
-### About me
+Soy Programador WEB Full Stack!
+
+### My Abilities
 
 ```js
-let = {
-  backend: ['node', 'PHP']
+let santiago = {
+  backend: ['node', 'PHP'],
+  frontend: ['HTML', 'CSS', 'JavaScript']
 };
 ```
 
