@@ -8,13 +8,18 @@ Soy Programador WEB Full Stack!
 let santiago = {
   backend: [
     {
-      node: 'Express'
+      node: {
+        frameworks: ['Express'],
+        orm: ['Sequelize']
+      }
     },
     {
-      php: 'Laravel'
+      php: {
+        frameworks: ['Laravel']
+      }
     }
   ],
-  frontend: ['HTML', 'CSS', 'JavaScript']
+  frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap']
 };
 ```
 
