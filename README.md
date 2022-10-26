@@ -22,6 +22,8 @@ let santiago = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap']
 };
 ```
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santiagor0jas&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagor0jas&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santiagor0jas&theme=github_dark)
 
