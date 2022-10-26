@@ -22,6 +22,9 @@ let santiago = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap']
 };
 ```
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagor0jas&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santiagor0jas&theme=github_dark)
+
 
 <!--
 **santiagor0jas/santiagor0jas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
