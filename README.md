@@ -1,29 +1,10 @@
-### ¡Hola!, Soy Santiago. 👋
+### ¡Hi!, I'm Santiago. 👋
 
-Soy Programador WEB Full Stack!
+I am Full Stack WEB Developer
 
-### Mis Habilidades
+### My Abilities
 
-```js
-let santiago = {
-  backend: [
-    {
-      node: {
-        frameworks: ['Express'],
-        orm: ['Sequelize']
-      }
-    },
-    {
-      php: {
-        frameworks: ['Laravel']
-      }
-    }
-  ],
-  frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap']
-};
-```
-
-### 𝙼𝚘𝚛𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
+### More Information
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagor0jas&theme=github_dark)
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
