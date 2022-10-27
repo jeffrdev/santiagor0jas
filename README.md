@@ -25,11 +25,8 @@ let santiago = {
 
 ### 𝙼𝚘𝚛𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santiagor0jas&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagor0jas&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santiagor0jas&theme=github_dark)
-
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 <!--
 **santiagor0jas/santiagor0jas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
